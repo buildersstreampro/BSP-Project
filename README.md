@@ -8,9 +8,15 @@ Market research indicates that the global construction software market reached a
 
 The residential renovation and remodeling sub-niche, which serves as the primary target for Builders Stream Pro, represents $80 million to $120 million of this addressable market. This segment is the fastest-growing and most fragmented sub-segment in the industry.   
 
+<<<<<<< HEAD
 Market Sizing Level	US Market Valuation (2025 Baseline)	Percentage Share of Parent Segment	Historical and Projected CAGR	Data Confidence
 Total Addressable Market (TAM)	~$1,100,000,000	
 100.0% of Domestic Construction Tech 
+=======
+**Launch Target:** Q1 2027  
+**Founder:** Douglas Davis | Builders Stream  
+**Stage:** Pre-Launch Planning & Market Validation
+>>>>>>> e686f53051cd6990a91abfad21f3f219b288e65a
 
 8.00% – 10.00% Historical (2019–2024) 
 
