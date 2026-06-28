@@ -7,7 +7,7 @@
 Builders Stream Pro is a SaaS platform designed to solve the operational chaos facing the 450,000+ small construction and renovation companies in the US. Instead of juggling spreadsheets, text messages, and multiple disconnected tools, contractors get one integrated platform for estimating, scheduling, job costing, change orders, client communication, and financial management.
 
 **Launch Target:** Q1 2027  
-**Founder:** Douglas Miller | BCK Construction Services  
+**Founder:** Douglas Davis | Builders Stream  
 **Stage:** Pre-Launch Planning & Market Validation
 
 ---
